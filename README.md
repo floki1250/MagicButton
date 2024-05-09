@@ -1,19 +1,35 @@
-## Magic Button From MagicCSS
-========================
 
-#### USAGE
-======================
+# MagicCSS/MagicButton
+
+
+
+
+
+## Installation
+
+
 ```bash
-npm install magicbutton
-``` 
+  npm install @adam_dardour/magicbutton
+```
+    
+## Usage/Examples
+
+```vue
 <MButton color="color"  icon="icon" />
-color :  hex color default black
-icon : icon From [Iconify.design](https://icon-sets.iconify.design/) with format collection/icon-name
+```
 
-##### Example
-======================
-<MButton color="#1427cf" @click="handleClick" icon="heroicons/chevron-left" />
+- color :  hex color default black
+- icon : icon from [Iconify.design](https://icon-sets.iconify.design/) with format collection/icon-name
 
-for any help contact me : 
-[github](https://github.com/floki1250)
-https://adamdar.vercel.app/
+## Examples
+
+```vue
+<MButton color="#1427cf" icon="heroicons/chevron-left" />
+```
+
+
+## Authors
+
+- [@floki1250](https://github.com/floki1250)
+- [adamdar.dev](https://adamdar.vercel.app/)
+
