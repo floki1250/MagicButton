@@ -1,0 +1,18 @@
+{
+  "name": "magicbutton",
+  "version": "1.0.0",
+  "description": "MagicButton From MagicCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.0"
+  },
+  "dependencies": {
+    "vue": "^3.4.27"
+  }
+}
