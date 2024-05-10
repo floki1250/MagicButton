@@ -19,7 +19,7 @@ jobs:
       - name: Login to npm
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npm login --registry=https://registry.npmjs.org --legacy-peer-deps
+        run: npm login
 
       - name: Publish to npm
         run:  npm publish --access public
