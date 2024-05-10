@@ -1,6 +1,6 @@
 {
   "name": "@magic-css/magicbutton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MagicButton From MagicCSS",
   "main": "index.js",
   "scripts": {
