@@ -1,18 +1,35 @@
 {
-  "name": "magicbutton",
+  "name": "@magic-css/magicbutton",
   "version": "1.0.0",
   "description": "MagicButton From MagicCSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "MagicButton",
+    "MagicCSS",
+    "Vue",
+    "Js",
+    "Html",
+    "Buttons",
+    "CSS",
+    "Nuxt"
+  ],
+  "author": "Adam Dardour",
+  "license": "MIT",
   "devDependencies": {
     "sass": "^1.77.0"
   },
   "dependencies": {
     "vue": "^3.4.27"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floki1250/MagicButton.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floki1250/MagicButton/issues"
+  },
+  "homepage": "https://github.com/floki1250/MagicButton#readme"
 }
